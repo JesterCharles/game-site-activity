@@ -1,6 +1,7 @@
 # Game-Site Paired-Programming Project
 
-For this project, you and a partner will be building out a game-site based on one of the three games as follows: `Rock-Paper-Scissors, Tic-Tac-Toe & Image Memory Game`. You will utilize the frontend framework or library you were trained in. One of you will be the `Driver` and the other the `Navigator` to accomplish the feature requirements for your selected game described in [How To Complete This Activity](#how-to-complete-this-activity) section. 
+## Scope
+For this project, you and a partner will be building out a game-site based on one of the three games as follows: `Rock-Paper-Scissors, Tic-Tac-Toe or an Image Memory Game`. You will utilize the frontend framework or library you were trained in. One of you will be the `Driver` and the other the `Navigator` to accomplish the feature requirements for your selected game described in [How To Complete This Activity](#how-to-complete-this-activity) section. 
 
 **Note: If you manage to finish one of the games to solid quality, *game functions 100% as intended*, you may work on another game within the given time.**
 
