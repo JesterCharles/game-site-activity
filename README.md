@@ -22,11 +22,15 @@ For this project, you and a partner will be building out a game-site based on on
 
 # How to Complete this Activity
 
+Choose one of the following games and develop a frontend website with the feature requirements requested below. 
+
+***NOTE***: The images are merely to show examples and may not match exactly to the requirements listed
+
 ## Rock-Paper-Scissors
 
 ![](https://i.imgur.com/Zsnf0Pt.gif)
 
-The Rock-Paper-Scissors game should allow an individual to play against a computer. It will contain the following features:
+The Rock-Paper-Scissors game should allow an individual to play against a computer. It will contain the following required features:
 
 - computer random selection
 - Win-Lose-Tie Detection
@@ -38,7 +42,7 @@ The Rock-Paper-Scissors game should allow an individual to play against a comput
 
 ![](https://camo.githubusercontent.com/740090318a163e524de00a2260b8a030851392bc2849c6d6eb5665ded1246100/68747470733a2f2f692e696d6775722e636f6d2f7262713534576e2e676966)
 
-The Tic-Tac-Toe game should allow two players to take turns marking 'X' or 'O' in a 3x3 grid, trying to connect three of their marks in a row. It will contain the following features:
+The Tic-Tac-Toe game should allow two players to take turns marking 'X' or 'O' in a 3x3 grid, trying to connect three of their marks in a row. It will contain the following required features:
 
 - Keep track of whose turn it is, with 'X' starting first
 - Win-Lose-Tie Detection
@@ -50,9 +54,9 @@ The Tic-Tac-Toe game should allow two players to take turns marking 'X' or 'O' i
 
 ![](https://marina-ferreira.github.io/img/tutorials/js/memory-game/memory-game.gif)
 
-The Image Memory Game should allow a single player the option to remember the positions of the cards and open two exact images sequentially to score points. Once all cards are flipped to show their image the player is victorious. This should include the follow features:
+The Image Memory Game should allow a single player the option to remember the positions of the cards and open two exact images sequentially to score points. Once all cards are flipped to show their image the player is victorious. It will contain the following require features:
 
-- If cards don't match, they must return to original state
+- If images don't match, they must return to original state
 - Win State Detection
 - option to reset the game.
 - Keep track number of moves
